@@ -5,8 +5,3 @@ https://www.youtube.com/watch?v=hjLLEnQoe_Q
 
 https://youtu.be/Ny9hGloqOHI?si=YlhVTpkEgjinDNoc
 강지수
-
-
-git add .
-git commit -m "Minor update"
-git push
